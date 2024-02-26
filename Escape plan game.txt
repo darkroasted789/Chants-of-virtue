@@ -1,0 +1,5 @@
+// Java Game: Deep Sea Quest
+public class DeepSeaQuest {
+    public static void main(String[] args) {
+        System.out.println("Welcome to Deep Sea Quest!");
+        // Add your Deep Sea Quest game script here
